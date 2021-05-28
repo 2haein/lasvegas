@@ -12,7 +12,8 @@ react-native init lasvegas
 안드로이드 스튜디오에서 API30 이상의 에뮬레이터 설치 후 실행
 
 ### vscode 에서 실행(안드로이드 에뮬레이터가 켜져있어야함)
-1. cd lasvegas
+콘솔창에서 아래 명령어 수행
+1. cd lasvegas : (lasvegas/lasvegas 폴더로 이동)
 2. npm run android
 
 안드로이드 실행 시 Unable to load script 에러 해결
