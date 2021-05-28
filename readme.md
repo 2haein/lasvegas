@@ -18,12 +18,12 @@ react-native init lasvegas
 
 안드로이드 실행 시 Unable to load script 에러 해결
 프로젝트 파일(lasvegas) > android > app > src > main
-폴더로 이동 후 assets 폴더가 있는지 확인 후 없으면 생성
+폴더로 이동 후 assets 폴더가 있는지 확인 후 없으면 생성.
 명령 프롬프트에서 프로젝트\android 경로로 이동 후
-./gradlew clean 명령어 수행
+./gradlew clean 명령어 수행.
 lasvegas 폴더로 이동 후 
 react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
-명령어 수행
+명령어 수행.
 
 - 참고 : 
 - https://velog.io/@s2ilver8/React-Native-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
