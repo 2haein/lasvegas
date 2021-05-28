@@ -11,7 +11,7 @@ react-native init lasvegas
 ### 안드로이드 avd 실행
 안드로이드 스튜디오에서 API30 이상의 에뮬레이터 설치 후 실행
 
-### android avd 에서 실행
+### vscode 에서 실행(안드로이드 에뮬레이터가 켜져있어야함)
 1. cd lasvegas
 2. npm run android
 
