@@ -6,7 +6,7 @@
 - npm install react-native-cli
 
 ### lasvegas 프로젝트 생성
-react-native init TestProject
+react-native init lasvegas
 
 ### 안드로이드 avd 실행
 안드로이드 스튜디오에서 API30 이상의 에뮬레이터 설치 후 실행
