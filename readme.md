@@ -30,7 +30,7 @@ lasvegas 폴더로 이동 후
 react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
 명령어 수행.
 
-- 참고 ::
+- 참고 :::
 - https://jeffgukang.github.io/react-native-tutorial/
 - https://velog.io/@s2ilver8/React-Native-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
 - https://yuddomack.tistory.com/entry/1React-Native-%EC%84%A4%EC%B9%98%EC%99%80-%EC%8B%A4%ED%96%89hello-world
